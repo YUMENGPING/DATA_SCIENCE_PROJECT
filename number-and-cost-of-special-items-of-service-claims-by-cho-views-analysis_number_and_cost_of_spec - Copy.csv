@@ -1,0 +1,108 @@
+﻿MTH_YR,CHO_DESC,LHO_DESC,SERVICE_CODE,SERVICE_DESC,SERVICE_COUNT,SERVICE_TOTAL
+201901,CHO Area 1,Donegal,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,705,17484
+201901,CHO Area 1,Cavan / Monaghan,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,241,5977
+201902,CHO Area 1,Sligo / Leitrim,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,397,9846
+201902,CHO Area 1,Cavan / Monaghan,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,231,5729
+201902,CHO Area 1,Donegal,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,681,16889
+201901,CHO Area 1,Sligo / Leitrim,A,Excisions/Cryotherapy/Diathermy of Skin Lesions,383,9498
+201901,CHO Area 1,Cavan / Monaghan,AB,"LARC - counselling, insertion '&' monitoring from certified GP",49,3430
+201902,CHO Area 1,Sligo / Leitrim,AB,"LARC - counselling, insertion '&' monitoring from certified GP",24,1680
+201902,CHO Area 1,Donegal,AB,"LARC - counselling, insertion '&' monitoring from certified GP",80,5600
+201901,CHO Area 1,Donegal,AB,"LARC - counselling, insertion '&' monitoring from certified GP",74,5180
+201902,CHO Area 1,Cavan / Monaghan,AB,"LARC - counselling, insertion '&' monitoring from certified GP",70,4900
+201901,CHO Area 1,Sligo / Leitrim,AB,"LARC - counselling, insertion '&' monitoring from certified GP",16,1120
+201902,CHO Area 1,Sligo / Leitrim,AC,Removal of a LARC Device,13,650
+201901,CHO Area 1,Sligo / Leitrim,AC,Removal of a LARC Device,4,200
+201901,CHO Area 1,Donegal,AC,Removal of a LARC Device,44,2200
+201901,CHO Area 1,Cavan / Monaghan,AC,Removal of a LARC Device,23,1150
+201902,CHO Area 1,Donegal,AC,Removal of a LARC Device,48,2400
+201902,CHO Area 1,Cavan / Monaghan,AC,Removal of a LARC Device,28,1400
+201901,CHO Area 1,Sligo / Leitrim,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,239,14340
+201901,CHO Area 1,Donegal,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,540,32400
+201901,CHO Area 1,Cavan / Monaghan,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,362,21720
+201902,CHO Area 1,Donegal,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,599,35940
+201902,CHO Area 1,Cavan / Monaghan,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,345,20700
+201902,CHO Area 1,Sligo / Leitrim,AD,24Hr ABPM Diagnosis '&' treatment for Individual patient care '&' not general/routine test,251,15060
+201901,CHO Area 1,Sligo / Leitrim,AE,Cervical Screening Consult,9,450
+201901,CHO Area 1,Cavan / Monaghan,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,75,3750
+201901,CHO Area 1,Donegal,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,172,8600
+201902,CHO Area 1,Sligo / Leitrim,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,108,5400
+201902,CHO Area 1,Cavan / Monaghan,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,94,4700
+201902,CHO Area 1,Donegal,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,229,11450
+201901,CHO Area 1,Sligo / Leitrim,B,Suturing Cuts '&' Lacerations-includes tissue glue does not include paper sutures,90,4500
+201901,CHO Area 1,Cavan / Monaghan,C,Draining of Hydroceles,6,149
+201901,CHO Area 1,Donegal,C,Draining of Hydroceles,2,50
+201902,CHO Area 1,Sligo / Leitrim,C,Draining of Hydroceles,5,124
+201902,CHO Area 1,Cavan / Monaghan,C,Draining of Hydroceles,3,74
+201902,CHO Area 1,Donegal,C,Draining of Hydroceles,6,149
+201901,CHO Area 1,Sligo / Leitrim,C,Draining of Hydroceles,4,99
+201901,CHO Area 1,Cavan / Monaghan,D,Treatment and plugging of dental and nasal haemorrhages,2,50
+201901,CHO Area 1,Donegal,D,Treatment and plugging of dental and nasal haemorrhages,2,50
+201902,CHO Area 1,Sligo / Leitrim,D,Treatment and plugging of dental and nasal haemorrhages,10,248
+201902,CHO Area 1,Donegal,D,Treatment and plugging of dental and nasal haemorrhages,3,74
+201901,CHO Area 1,Sligo / Leitrim,D,Treatment and plugging of dental and nasal haemorrhages,14,347
+201901,CHO Area 1,Cavan / Monaghan,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,647,16046
+201901,CHO Area 1,Donegal,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,1164,28867
+201902,CHO Area 1,Sligo / Leitrim,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,499,12375
+201902,CHO Area 1,Cavan / Monaghan,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,613,15202
+201902,CHO Area 1,Donegal,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,1244,30851
+201901,CHO Area 1,Sligo / Leitrim,F,ECG tests '&' interpretation-individual patient care '&' not general/routine test,477,11830
+201901,CHO Area 1,Cavan / Monaghan,H,Removal of adherent foreign bodies from the surface of the Eye,12,298
+201901,CHO Area 1,Donegal,H,Removal of adherent foreign bodies from the surface of the Eye,27,670
+201902,CHO Area 1,Sligo / Leitrim,H,Removal of adherent foreign bodies from the surface of the Eye,16,397
+201902,CHO Area 1,Cavan / Monaghan,H,Removal of adherent foreign bodies from the surface of the Eye,10,248
+201902,CHO Area 1,Donegal,H,Removal of adherent foreign bodies from the surface of the Eye,58,1438
+201901,CHO Area 1,Sligo / Leitrim,H,Removal of adherent foreign bodies from the surface of the Eye,14,347
+201901,CHO Area 1,Cavan / Monaghan,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",118,2926
+201901,CHO Area 1,Donegal,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",175,4340
+201902,CHO Area 1,Sligo / Leitrim,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",130,3224
+201902,CHO Area 1,Cavan / Monaghan,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",95,2356
+201902,CHO Area 1,Donegal,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",212,5258
+201901,CHO Area 1,Sligo / Leitrim,J,"Removal of lodged foreign bodies from the Ear, Nose and Throat",130,3224
+201901,CHO Area 1,Cavan / Monaghan,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),225,8372
+201901,CHO Area 1,Donegal,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),545,20279
+201902,CHO Area 1,Sligo / Leitrim,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),113,4205
+201902,CHO Area 1,Cavan / Monaghan,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),157,5842
+201902,CHO Area 1,Donegal,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),522,19424
+201901,CHO Area 1,Sligo / Leitrim,K,Nebuliser Treatment (in the case of Acute Asthmatic Attack),130,4837
+201901,CHO Area 1,Cavan / Monaghan,L,Bladder catheterization – composite fee for insertion and removal,31,1860
+201901,CHO Area 1,Donegal,L,Bladder catheterization – composite fee for insertion and removal,69,4140
+201902,CHO Area 1,Sligo / Leitrim,L,Bladder catheterization – composite fee for insertion and removal,39,2340
+201902,CHO Area 1,Cavan / Monaghan,L,Bladder catheterization – composite fee for insertion and removal,19,1140
+201902,CHO Area 1,Donegal,L,Bladder catheterization – composite fee for insertion and removal,101,6060
+201901,CHO Area 1,Sligo / Leitrim,L,Bladder catheterization – composite fee for insertion and removal,22,1320
+201901,CHO Area 1,Cavan / Monaghan,M,Attendance by GP at HSE convened case conference,3,186
+201902,CHO Area 1,Donegal,M,Attendance by GP at HSE convened case conference,6,372
+201902,CHO Area 1,Cavan / Monaghan,M,Attendance by GP at HSE convened case conference,2,124
+201901,CHO Area 1,Donegal,M,Attendance by GP at HSE convened case conference,2,124
+201901,CHO Area 1,Cavan / Monaghan,O,Outbreak,37,1055
+201901,CHO Area 1,Donegal,O,Outbreak,46,1311
+201902,CHO Area 1,Sligo / Leitrim,O,Outbreak,15,428
+201902,CHO Area 1,Cavan / Monaghan,O,Outbreak,50,1425
+201902,CHO Area 1,Donegal,O,Outbreak,41,1169
+201901,CHO Area 1,Sligo / Leitrim,O,Outbreak,25,713
+201902,CHO Area 1,Cavan / Monaghan,P,Counselling and fitting of an IUCD,1,67
+201901,CHO Area 1,Cavan / Monaghan,R,Pneumococcal Vaccination,63,1796
+201901,CHO Area 1,Donegal,R,Pneumococcal Vaccination,32,912
+201902,CHO Area 1,Sligo / Leitrim,R,Pneumococcal Vaccination,16,456
+201902,CHO Area 1,Cavan / Monaghan,R,Pneumococcal Vaccination,68,1938
+201902,CHO Area 1,Donegal,R,Pneumococcal Vaccination,36,1026
+201901,CHO Area 1,Sligo / Leitrim,R,Pneumococcal Vaccination,20,570
+201901,CHO Area 1,Cavan / Monaghan,S,Influenza Vaccination,238,3570
+201901,CHO Area 1,Donegal,S,Influenza Vaccination,162,2430
+201902,CHO Area 1,Sligo / Leitrim,S,Influenza Vaccination,71,1065
+201902,CHO Area 1,Cavan / Monaghan,S,Influenza Vaccination,62,930
+201902,CHO Area 1,Donegal,S,Influenza Vaccination,143,2145
+201901,CHO Area 1,Sligo / Leitrim,S,Influenza Vaccination,188,2820
+201901,CHO Area 1,Cavan / Monaghan,T,Pneumococcal/Influenza Vaccination,16,684
+201901,CHO Area 1,Donegal,T,Pneumococcal/Influenza Vaccination,1,43
+201902,CHO Area 1,Donegal,T,Pneumococcal/Influenza Vaccination,2,86
+201902,CHO Area 1,Cavan / Monaghan,T,Pneumococcal/Influenza Vaccination,4,171
+201901,CHO Area 1,Sligo / Leitrim,T,Pneumococcal/Influenza Vaccination,4,171
+201901,CHO Area 1,Cavan / Monaghan,U,Hepatitis B Vaccination,19,903
+201901,CHO Area 1,Donegal,U,Hepatitis B Vaccination,9,428
+201901,CHO Area 1,Sligo / Leitrim,U,Hepatitis B Vaccination,7,333
+201902,CHO Area 1,Cavan / Monaghan,U,Hepatitis B Vaccination,13,618
+201902,CHO Area 1,Donegal,U,Hepatitis B Vaccination,7,333
+201902,CHO Area 1,Sligo / Leitrim,U,Hepatitis B Vaccination,4,190
+201901,CHO Area 1,Cavan / Monaghan,X,"Removal of lodged or impacted foreign bodies from the ear, nose, throat and skin",1,25

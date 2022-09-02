@@ -1,0 +1,705 @@
+﻿MTH_YR,CHO_DESC,LHO_DESC_CHO,CLIENT_NORM_AGE_GROUP,CLIENT_NORM_AGE_GROUP_DESC,GENDER,Age Classification
+202006,CHO Area 1,Cavan / Monaghan,0-04,Under 5 Years,Female,1211
+202006,CHO Area 1,Donegal,0-04,Under 5 Years,Female,1780
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,0-04,Under 5 Years,Female,759
+202006,CHO Area 1,Cavan / Monaghan,0-04,Under 5 Years,Male,1271
+202006,CHO Area 1,Donegal,0-04,Under 5 Years,Male,1817
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,0-04,Under 5 Years,Male,763
+202006,CHO Area 1,Cavan / Monaghan,05-Nov,05-11 Years,Female,2531
+202006,CHO Area 1,Donegal,05-Nov,05-11 Years,Female,3449
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,05-Nov,05-11 Years,Female,1554
+202006,CHO Area 1,Cavan / Monaghan,05-Nov,05-11 Years,Male,2796
+202006,CHO Area 1,Donegal,05-Nov,05-11 Years,Male,3828
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,05-Nov,05-11 Years,Male,1830
+202006,CHO Area 1,Cavan / Monaghan,Dec-15,12-15 Years,Female,1542
+202006,CHO Area 1,Donegal,Dec-15,12-15 Years,Female,2255
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,Dec-15,12-15 Years,Female,968
+202006,CHO Area 1,Cavan / Monaghan,Dec-15,12-15 Years,Male,1644
+202006,CHO Area 1,Donegal,Dec-15,12-15 Years,Male,2501
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,Dec-15,12-15 Years,Male,1117
+202006,CHO Area 1,Cavan / Monaghan,16-24,16-24 Years,Female,2321
+202006,CHO Area 1,Donegal,16-24,16-24 Years,Female,3656
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,16-24,16-24 Years,Female,1538
+202006,CHO Area 1,Cavan / Monaghan,16-24,16-24 Years,Male,2086
+202006,CHO Area 1,Donegal,16-24,16-24 Years,Male,3297
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,16-24,16-24 Years,Male,1527
+202006,CHO Area 1,Cavan / Monaghan,25-34,25-34 Years,Female,2173
+202006,CHO Area 1,Donegal,25-34,25-34 Years,Female,3258
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,25-34,25-34 Years,Female,1540
+202006,CHO Area 1,Cavan / Monaghan,25-34,25-34 Years,Male,1370
+202006,CHO Area 1,Donegal,25-34,25-34 Years,Male,2295
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,25-34,25-34 Years,Male,1169
+202006,CHO Area 1,Cavan / Monaghan,35-44,35-44 Years,Female,3219
+202006,CHO Area 1,Donegal,35-44,35-44 Years,Female,4572
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,35-44,35-44 Years,Female,2132
+202006,CHO Area 1,Cavan / Monaghan,35-44,35-44 Years,Male,2267
+202006,CHO Area 1,Donegal,35-44,35-44 Years,Male,3570
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,35-44,35-44 Years,Male,1667
+202006,CHO Area 1,Cavan / Monaghan,45-54,45-54 Years,Female,3183
+202006,CHO Area 1,Donegal,45-54,45-54 Years,Female,5011
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,45-54,45-54 Years,Female,2271
+202006,CHO Area 1,Cavan / Monaghan,45-54,45-54 Years,Male,2798
+202006,CHO Area 1,Donegal,45-54,45-54 Years,Male,4569
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,45-54,45-54 Years,Male,2106
+202006,CHO Area 1,Cavan / Monaghan,55-64,55-64 Years,Female,2891
+202006,CHO Area 1,Donegal,55-64,55-64 Years,Female,4650
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,55-64,55-64 Years,Female,2289
+202006,CHO Area 1,Cavan / Monaghan,55-64,55-64 Years,Male,2768
+202006,CHO Area 1,Donegal,55-64,55-64 Years,Male,4329
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,55-64,55-64 Years,Male,2236
+202006,CHO Area 1,Cavan / Monaghan,65-69,65-69 Years,Female,1623
+202006,CHO Area 1,Donegal,65-69,65-69 Years,Female,2507
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,65-69,65-69 Years,Female,1315
+202006,CHO Area 1,Cavan / Monaghan,65-69,65-69 Years,Male,1395
+202006,CHO Area 1,Donegal,65-69,65-69 Years,Male,2303
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,65-69,65-69 Years,Male,1193
+202006,CHO Area 1,Cavan / Monaghan,70-74,70-74 Years,Female,1937
+202006,CHO Area 1,Donegal,70-74,70-74 Years,Female,3017
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,70-74,70-74 Years,Female,1675
+202006,CHO Area 1,Cavan / Monaghan,70-74,70-74 Years,Male,1810
+202006,CHO Area 1,Donegal,70-74,70-74 Years,Male,2763
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,70-74,70-74 Years,Male,1547
+202006,CHO Area 1,Cavan / Monaghan,75+over,75 Years and Over,Female,4162
+202006,CHO Area 1,Donegal,75+over,75 Years and Over,Female,5839
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,75+over,75 Years and Over,Female,3586
+202006,CHO Area 1,Cavan / Monaghan,75+over,75 Years and Over,Male,3282
+202006,CHO Area 1,Donegal,75+over,75 Years and Over,Male,4928
+202006,CHO Area 1,Sligo / Leitrim / West Cavan,75+over,75 Years and Over,Male,2769
+202006,CHO Area 2,Galway,0-04,Under 5 Years,Female,1802
+202006,CHO Area 2,Mayo,0-04,Under 5 Years,Female,981
+202006,CHO Area 2,Roscommon,0-04,Under 5 Years,Female,489
+202006,CHO Area 2,Galway,0-04,Under 5 Years,Male,1916
+202006,CHO Area 2,Mayo,0-04,Under 5 Years,Male,1113
+202006,CHO Area 2,Roscommon,0-04,Under 5 Years,Male,553
+202006,CHO Area 2,Galway,05-Nov,05-11 Years,Female,3906
+202006,CHO Area 2,Mayo,05-Nov,05-11 Years,Female,2219
+202006,CHO Area 2,Roscommon,05-Nov,05-11 Years,Female,1150
+202006,CHO Area 2,Galway,05-Nov,05-11 Years,Male,4222
+202006,CHO Area 2,Mayo,05-Nov,05-11 Years,Male,2468
+202006,CHO Area 2,Roscommon,05-Nov,05-11 Years,Male,1252
+202006,CHO Area 2,Galway,Dec-15,12-15 Years,Female,2425
+202006,CHO Area 2,Mayo,Dec-15,12-15 Years,Female,1375
+202006,CHO Area 2,Roscommon,Dec-15,12-15 Years,Female,708
+202006,CHO Area 2,Galway,Dec-15,12-15 Years,Male,2774
+202006,CHO Area 2,Mayo,Dec-15,12-15 Years,Male,1574
+202006,CHO Area 2,Roscommon,Dec-15,12-15 Years,Male,714
+202006,CHO Area 2,Galway,16-24,16-24 Years,Female,3824
+202006,CHO Area 2,Mayo,16-24,16-24 Years,Female,2297
+202006,CHO Area 2,Roscommon,16-24,16-24 Years,Female,1133
+202006,CHO Area 2,Galway,16-24,16-24 Years,Male,3522
+202006,CHO Area 2,Mayo,16-24,16-24 Years,Male,2103
+202006,CHO Area 2,Roscommon,16-24,16-24 Years,Male,1030
+202006,CHO Area 2,Galway,25-34,25-34 Years,Female,3699
+202006,CHO Area 2,Mayo,25-34,25-34 Years,Female,2022
+202006,CHO Area 2,Roscommon,25-34,25-34 Years,Female,983
+202006,CHO Area 2,Galway,25-34,25-34 Years,Male,2577
+202006,CHO Area 2,Mayo,25-34,25-34 Years,Male,1403
+202006,CHO Area 2,Roscommon,25-34,25-34 Years,Male,715
+202006,CHO Area 2,Galway,35-44,35-44 Years,Female,5282
+202006,CHO Area 2,Mayo,35-44,35-44 Years,Female,2904
+202006,CHO Area 2,Roscommon,35-44,35-44 Years,Female,1375
+202006,CHO Area 2,Galway,35-44,35-44 Years,Male,3887
+202006,CHO Area 2,Mayo,35-44,35-44 Years,Male,2117
+202006,CHO Area 2,Roscommon,35-44,35-44 Years,Male,1029
+202006,CHO Area 2,Galway,45-54,45-54 Years,Female,5536
+202006,CHO Area 2,Mayo,45-54,45-54 Years,Female,3263
+202006,CHO Area 2,Roscommon,45-54,45-54 Years,Female,1503
+202006,CHO Area 2,Galway,45-54,45-54 Years,Male,4870
+202006,CHO Area 2,Mayo,45-54,45-54 Years,Male,2901
+202006,CHO Area 2,Roscommon,45-54,45-54 Years,Male,1384
+202006,CHO Area 2,Galway,55-64,55-64 Years,Female,4912
+202006,CHO Area 2,Mayo,55-64,55-64 Years,Female,3536
+202006,CHO Area 2,Roscommon,55-64,55-64 Years,Female,1553
+202006,CHO Area 2,Galway,55-64,55-64 Years,Male,4737
+202006,CHO Area 2,Mayo,55-64,55-64 Years,Male,3319
+202006,CHO Area 2,Roscommon,55-64,55-64 Years,Male,1494
+202006,CHO Area 2,Galway,65-69,65-69 Years,Female,2774
+202006,CHO Area 2,Mayo,65-69,65-69 Years,Female,2138
+202006,CHO Area 2,Roscommon,65-69,65-69 Years,Female,913
+202006,CHO Area 2,Galway,65-69,65-69 Years,Male,2444
+202006,CHO Area 2,Mayo,65-69,65-69 Years,Male,1859
+202006,CHO Area 2,Roscommon,65-69,65-69 Years,Male,828
+202006,CHO Area 2,Galway,70-74,70-74 Years,Female,3327
+202006,CHO Area 2,Mayo,70-74,70-74 Years,Female,2400
+202006,CHO Area 2,Roscommon,70-74,70-74 Years,Female,1048
+202006,CHO Area 2,Galway,70-74,70-74 Years,Male,3063
+202006,CHO Area 2,Mayo,70-74,70-74 Years,Male,2435
+202006,CHO Area 2,Roscommon,70-74,70-74 Years,Male,963
+202006,CHO Area 2,Galway,75+over,75 Years and Over,Female,7680
+202006,CHO Area 2,Mayo,75+over,75 Years and Over,Female,5228
+202006,CHO Area 2,Roscommon,75+over,75 Years and Over,Female,2470
+202006,CHO Area 2,Galway,75+over,75 Years and Over,Male,5990
+202006,CHO Area 2,Mayo,75+over,75 Years and Over,Male,4168
+202006,CHO Area 2,Roscommon,75+over,75 Years and Over,Male,2072
+202006,CHO Area 3,Clare,0-04,Under 5 Years,Female,854
+202006,CHO Area 3,Limerick,0-04,Under 5 Years,Female,1810
+202006,CHO Area 3,North Tipp./East Limerick,0-04,Under 5 Years,Female,529
+202006,CHO Area 3,Clare,0-04,Under 5 Years,Male,872
+202006,CHO Area 3,Limerick,0-04,Under 5 Years,Male,1896
+202006,CHO Area 3,North Tipp./East Limerick,0-04,Under 5 Years,Male,550
+202006,CHO Area 3,Clare,05-Nov,05-11 Years,Female,1681
+202006,CHO Area 3,Limerick,05-Nov,05-11 Years,Female,3460
+202006,CHO Area 3,North Tipp./East Limerick,05-Nov,05-11 Years,Female,1207
+202006,CHO Area 3,Clare,05-Nov,05-11 Years,Male,1966
+202006,CHO Area 3,Limerick,05-Nov,05-11 Years,Male,3912
+202006,CHO Area 3,North Tipp./East Limerick,05-Nov,05-11 Years,Male,1331
+202006,CHO Area 3,Clare,Dec-15,12-15 Years,Female,1199
+202006,CHO Area 3,Limerick,Dec-15,12-15 Years,Female,1981
+202006,CHO Area 3,North Tipp./East Limerick,Dec-15,12-15 Years,Female,738
+202006,CHO Area 3,Clare,Dec-15,12-15 Years,Male,1264
+202006,CHO Area 3,Limerick,Dec-15,12-15 Years,Male,2248
+202006,CHO Area 3,North Tipp./East Limerick,Dec-15,12-15 Years,Male,758
+202006,CHO Area 3,Clare,16-24,16-24 Years,Female,1829
+202006,CHO Area 3,Limerick,16-24,16-24 Years,Female,3020
+202006,CHO Area 3,North Tipp./East Limerick,16-24,16-24 Years,Female,1203
+202006,CHO Area 3,Clare,16-24,16-24 Years,Male,1606
+202006,CHO Area 3,Limerick,16-24,16-24 Years,Male,2675
+202006,CHO Area 3,North Tipp./East Limerick,16-24,16-24 Years,Male,1082
+202006,CHO Area 3,Clare,25-34,25-34 Years,Female,1664
+202006,CHO Area 3,Limerick,25-34,25-34 Years,Female,3382
+202006,CHO Area 3,North Tipp./East Limerick,25-34,25-34 Years,Female,1079
+202006,CHO Area 3,Clare,25-34,25-34 Years,Male,1220
+202006,CHO Area 3,Limerick,25-34,25-34 Years,Male,2210
+202006,CHO Area 3,North Tipp./East Limerick,25-34,25-34 Years,Male,779
+202006,CHO Area 3,Clare,35-44,35-44 Years,Female,2364
+202006,CHO Area 3,Limerick,35-44,35-44 Years,Female,4464
+202006,CHO Area 3,North Tipp./East Limerick,35-44,35-44 Years,Female,1540
+202006,CHO Area 3,Clare,35-44,35-44 Years,Male,1637
+202006,CHO Area 3,Limerick,35-44,35-44 Years,Male,3339
+202006,CHO Area 3,North Tipp./East Limerick,35-44,35-44 Years,Male,1176
+202006,CHO Area 3,Clare,45-54,45-54 Years,Female,2563
+202006,CHO Area 3,Limerick,45-54,45-54 Years,Female,4236
+202006,CHO Area 3,North Tipp./East Limerick,45-54,45-54 Years,Female,1682
+202006,CHO Area 3,Clare,45-54,45-54 Years,Male,2238
+202006,CHO Area 3,Limerick,45-54,45-54 Years,Male,3889
+202006,CHO Area 3,North Tipp./East Limerick,45-54,45-54 Years,Male,1399
+202006,CHO Area 3,Clare,55-64,55-64 Years,Female,2367
+202006,CHO Area 3,Limerick,55-64,55-64 Years,Female,4008
+202006,CHO Area 3,North Tipp./East Limerick,55-64,55-64 Years,Female,1569
+202006,CHO Area 3,Clare,55-64,55-64 Years,Male,2242
+202006,CHO Area 3,Limerick,55-64,55-64 Years,Male,3889
+202006,CHO Area 3,North Tipp./East Limerick,55-64,55-64 Years,Male,1462
+202006,CHO Area 3,Clare,65-69,65-69 Years,Female,1387
+202006,CHO Area 3,Limerick,65-69,65-69 Years,Female,2324
+202006,CHO Area 3,North Tipp./East Limerick,65-69,65-69 Years,Female,879
+202006,CHO Area 3,Clare,65-69,65-69 Years,Male,1182
+202006,CHO Area 3,Limerick,65-69,65-69 Years,Male,2064
+202006,CHO Area 3,North Tipp./East Limerick,65-69,65-69 Years,Male,813
+202006,CHO Area 3,Clare,70-74,70-74 Years,Female,1808
+202006,CHO Area 3,Limerick,70-74,70-74 Years,Female,2912
+202006,CHO Area 3,North Tipp./East Limerick,70-74,70-74 Years,Female,1187
+202006,CHO Area 3,Clare,70-74,70-74 Years,Male,1584
+202006,CHO Area 3,Limerick,70-74,70-74 Years,Male,2564
+202006,CHO Area 3,North Tipp./East Limerick,70-74,70-74 Years,Male,1017
+202006,CHO Area 3,Clare,75+over,75 Years and Over,Female,3750
+202006,CHO Area 3,Limerick,75+over,75 Years and Over,Female,6084
+202006,CHO Area 3,North Tipp./East Limerick,75+over,75 Years and Over,Female,2591
+202006,CHO Area 3,Clare,75+over,75 Years and Over,Male,2953
+202006,CHO Area 3,Limerick,75+over,75 Years and Over,Male,4499
+202006,CHO Area 3,North Tipp./East Limerick,75+over,75 Years and Over,Male,1945
+202006,CHO Area 4,Kerry,0-04,Under 5 Years,Female,1076
+202006,CHO Area 4,North Cork,0-04,Under 5 Years,Female,550
+202006,CHO Area 4,North Lee,0-04,Under 5 Years,Female,1484
+202006,CHO Area 4,South Lee,0-04,Under 5 Years,Female,1168
+202006,CHO Area 4,West Cork,0-04,Under 5 Years,Female,291
+202006,CHO Area 4,Kerry,0-04,Under 5 Years,Male,1114
+202006,CHO Area 4,North Cork,0-04,Under 5 Years,Male,648
+202006,CHO Area 4,North Lee,0-04,Under 5 Years,Male,1610
+202006,CHO Area 4,South Lee,0-04,Under 5 Years,Male,1207
+202006,CHO Area 4,West Cork,0-04,Under 5 Years,Male,306
+202006,CHO Area 4,Kerry,05-Nov,05-11 Years,Female,2244
+202006,CHO Area 4,North Cork,05-Nov,05-11 Years,Female,1311
+202006,CHO Area 4,North Lee,05-Nov,05-11 Years,Female,3288
+202006,CHO Area 4,South Lee,05-Nov,05-11 Years,Female,2509
+202006,CHO Area 4,West Cork,05-Nov,05-11 Years,Female,708
+202006,CHO Area 4,Kerry,05-Nov,05-11 Years,Male,2476
+202006,CHO Area 4,North Cork,05-Nov,05-11 Years,Male,1461
+202006,CHO Area 4,North Lee,05-Nov,05-11 Years,Male,3755
+202006,CHO Area 4,South Lee,05-Nov,05-11 Years,Male,2922
+202006,CHO Area 4,West Cork,05-Nov,05-11 Years,Male,725
+202006,CHO Area 4,Kerry,Dec-15,12-15 Years,Female,1395
+202006,CHO Area 4,North Cork,Dec-15,12-15 Years,Female,842
+202006,CHO Area 4,North Lee,Dec-15,12-15 Years,Female,2015
+202006,CHO Area 4,South Lee,Dec-15,12-15 Years,Female,1465
+202006,CHO Area 4,West Cork,Dec-15,12-15 Years,Female,507
+202006,CHO Area 4,Kerry,Dec-15,12-15 Years,Male,1486
+202006,CHO Area 4,North Cork,Dec-15,12-15 Years,Male,880
+202006,CHO Area 4,North Lee,Dec-15,12-15 Years,Male,2227
+202006,CHO Area 4,South Lee,Dec-15,12-15 Years,Male,1683
+202006,CHO Area 4,West Cork,Dec-15,12-15 Years,Male,534
+202006,CHO Area 4,Kerry,16-24,16-24 Years,Female,2318
+202006,CHO Area 4,North Cork,16-24,16-24 Years,Female,1296
+202006,CHO Area 4,North Lee,16-24,16-24 Years,Female,2908
+202006,CHO Area 4,South Lee,16-24,16-24 Years,Female,2106
+202006,CHO Area 4,West Cork,16-24,16-24 Years,Female,762
+202006,CHO Area 4,Kerry,16-24,16-24 Years,Male,2084
+202006,CHO Area 4,North Cork,16-24,16-24 Years,Male,1188
+202006,CHO Area 4,North Lee,16-24,16-24 Years,Male,2705
+202006,CHO Area 4,South Lee,16-24,16-24 Years,Male,2051
+202006,CHO Area 4,West Cork,16-24,16-24 Years,Male,691
+202006,CHO Area 4,Kerry,25-34,25-34 Years,Female,2219
+202006,CHO Area 4,North Cork,25-34,25-34 Years,Female,1155
+202006,CHO Area 4,North Lee,25-34,25-34 Years,Female,3222
+202006,CHO Area 4,South Lee,25-34,25-34 Years,Female,2530
+202006,CHO Area 4,West Cork,25-34,25-34 Years,Female,600
+202006,CHO Area 4,Kerry,25-34,25-34 Years,Male,1570
+202006,CHO Area 4,North Cork,25-34,25-34 Years,Male,770
+202006,CHO Area 4,North Lee,25-34,25-34 Years,Male,1988
+202006,CHO Area 4,South Lee,25-34,25-34 Years,Male,1623
+202006,CHO Area 4,West Cork,25-34,25-34 Years,Male,433
+202006,CHO Area 4,Kerry,35-44,35-44 Years,Female,3287
+202006,CHO Area 4,North Cork,35-44,35-44 Years,Female,1751
+202006,CHO Area 4,North Lee,35-44,35-44 Years,Female,4528
+202006,CHO Area 4,South Lee,35-44,35-44 Years,Female,3584
+202006,CHO Area 4,West Cork,35-44,35-44 Years,Female,857
+202006,CHO Area 4,Kerry,35-44,35-44 Years,Male,2401
+202006,CHO Area 4,North Cork,35-44,35-44 Years,Male,1193
+202006,CHO Area 4,North Lee,35-44,35-44 Years,Male,3124
+202006,CHO Area 4,South Lee,35-44,35-44 Years,Male,2504
+202006,CHO Area 4,West Cork,35-44,35-44 Years,Male,653
+202006,CHO Area 4,Kerry,45-54,45-54 Years,Female,3351
+202006,CHO Area 4,North Cork,45-54,45-54 Years,Female,1889
+202006,CHO Area 4,North Lee,45-54,45-54 Years,Female,4410
+202006,CHO Area 4,South Lee,45-54,45-54 Years,Female,3242
+202006,CHO Area 4,West Cork,45-54,45-54 Years,Female,1121
+202006,CHO Area 4,Kerry,45-54,45-54 Years,Male,3056
+202006,CHO Area 4,North Cork,45-54,45-54 Years,Male,1639
+202006,CHO Area 4,North Lee,45-54,45-54 Years,Male,3809
+202006,CHO Area 4,South Lee,45-54,45-54 Years,Male,2799
+202006,CHO Area 4,West Cork,45-54,45-54 Years,Male,907
+202006,CHO Area 4,Kerry,55-64,55-64 Years,Female,3262
+202006,CHO Area 4,North Cork,55-64,55-64 Years,Female,1782
+202006,CHO Area 4,North Lee,55-64,55-64 Years,Female,3988
+202006,CHO Area 4,South Lee,55-64,55-64 Years,Female,3304
+202006,CHO Area 4,West Cork,55-64,55-64 Years,Female,1237
+202006,CHO Area 4,Kerry,55-64,55-64 Years,Male,3072
+202006,CHO Area 4,North Cork,55-64,55-64 Years,Male,1650
+202006,CHO Area 4,North Lee,55-64,55-64 Years,Male,3772
+202006,CHO Area 4,South Lee,55-64,55-64 Years,Male,2934
+202006,CHO Area 4,West Cork,55-64,55-64 Years,Male,1123
+202006,CHO Area 4,Kerry,65-69,65-69 Years,Female,1922
+202006,CHO Area 4,North Cork,65-69,65-69 Years,Female,1090
+202006,CHO Area 4,North Lee,65-69,65-69 Years,Female,2274
+202006,CHO Area 4,South Lee,65-69,65-69 Years,Female,1728
+202006,CHO Area 4,West Cork,65-69,65-69 Years,Female,721
+202006,CHO Area 4,Kerry,65-69,65-69 Years,Male,1661
+202006,CHO Area 4,North Cork,65-69,65-69 Years,Male,943
+202006,CHO Area 4,North Lee,65-69,65-69 Years,Male,1907
+202006,CHO Area 4,South Lee,65-69,65-69 Years,Male,1399
+202006,CHO Area 4,West Cork,65-69,65-69 Years,Male,603
+202006,CHO Area 4,Kerry,70-74,70-74 Years,Female,2453
+202006,CHO Area 4,North Cork,70-74,70-74 Years,Female,1356
+202006,CHO Area 4,North Lee,70-74,70-74 Years,Female,2882
+202006,CHO Area 4,South Lee,70-74,70-74 Years,Female,2213
+202006,CHO Area 4,West Cork,70-74,70-74 Years,Female,923
+202006,CHO Area 4,Kerry,70-74,70-74 Years,Male,2255
+202006,CHO Area 4,North Cork,70-74,70-74 Years,Male,1144
+202006,CHO Area 4,North Lee,70-74,70-74 Years,Male,2526
+202006,CHO Area 4,South Lee,70-74,70-74 Years,Male,1801
+202006,CHO Area 4,West Cork,70-74,70-74 Years,Male,882
+202006,CHO Area 4,Kerry,75+over,75 Years and Over,Female,5226
+202006,CHO Area 4,North Cork,75+over,75 Years and Over,Female,3159
+202006,CHO Area 4,North Lee,75+over,75 Years and Over,Female,5838
+202006,CHO Area 4,South Lee,75+over,75 Years and Over,Female,5838
+202006,CHO Area 4,West Cork,75+over,75 Years and Over,Female,2234
+202006,CHO Area 4,Kerry,75+over,75 Years and Over,Male,3933
+202006,CHO Area 4,North Cork,75+over,75 Years and Over,Male,2245
+202006,CHO Area 4,North Lee,75+over,75 Years and Over,Male,4256
+202006,CHO Area 4,South Lee,75+over,75 Years and Over,Male,3792
+202006,CHO Area 4,West Cork,75+over,75 Years and Over,Male,1669
+202006,CHO Area 5,Carlow/Kilkenny,0-04,Under 5 Years,Female,1216
+202006,CHO Area 5,South Tipperary,0-04,Under 5 Years,Female,881
+202006,CHO Area 5,Waterford,0-04,Under 5 Years,Female,1111
+202006,CHO Area 5,Wexford,0-04,Under 5 Years,Female,1345
+202006,CHO Area 5,Carlow/Kilkenny,0-04,Under 5 Years,Male,1350
+202006,CHO Area 5,South Tipperary,0-04,Under 5 Years,Male,918
+202006,CHO Area 5,Waterford,0-04,Under 5 Years,Male,1188
+202006,CHO Area 5,Wexford,0-04,Under 5 Years,Male,1448
+202006,CHO Area 5,Carlow/Kilkenny,05-Nov,05-11 Years,Female,2609
+202006,CHO Area 5,South Tipperary,05-Nov,05-11 Years,Female,1596
+202006,CHO Area 5,Waterford,05-Nov,05-11 Years,Female,2283
+202006,CHO Area 5,Wexford,05-Nov,05-11 Years,Female,2868
+202006,CHO Area 5,Carlow/Kilkenny,05-Nov,05-11 Years,Male,2880
+202006,CHO Area 5,South Tipperary,05-Nov,05-11 Years,Male,1874
+202006,CHO Area 5,Waterford,05-Nov,05-11 Years,Male,2486
+202006,CHO Area 5,Wexford,05-Nov,05-11 Years,Male,3296
+202006,CHO Area 5,Carlow/Kilkenny,Dec-15,12-15 Years,Female,1499
+202006,CHO Area 5,South Tipperary,Dec-15,12-15 Years,Female,997
+202006,CHO Area 5,Waterford,Dec-15,12-15 Years,Female,1360
+202006,CHO Area 5,Wexford,Dec-15,12-15 Years,Female,1790
+202006,CHO Area 5,Carlow/Kilkenny,Dec-15,12-15 Years,Male,1629
+202006,CHO Area 5,South Tipperary,Dec-15,12-15 Years,Male,1099
+202006,CHO Area 5,Waterford,Dec-15,12-15 Years,Male,1489
+202006,CHO Area 5,Wexford,Dec-15,12-15 Years,Male,1939
+202006,CHO Area 5,Carlow/Kilkenny,16-24,16-24 Years,Female,2484
+202006,CHO Area 5,South Tipperary,16-24,16-24 Years,Female,1554
+202006,CHO Area 5,Waterford,16-24,16-24 Years,Female,2188
+202006,CHO Area 5,Wexford,16-24,16-24 Years,Female,2814
+202006,CHO Area 5,Carlow/Kilkenny,16-24,16-24 Years,Male,2155
+202006,CHO Area 5,South Tipperary,16-24,16-24 Years,Male,1412
+202006,CHO Area 5,Waterford,16-24,16-24 Years,Male,2089
+202006,CHO Area 5,Wexford,16-24,16-24 Years,Male,2502
+202006,CHO Area 5,Carlow/Kilkenny,25-34,25-34 Years,Female,2584
+202006,CHO Area 5,South Tipperary,25-34,25-34 Years,Female,1782
+202006,CHO Area 5,Waterford,25-34,25-34 Years,Female,2508
+202006,CHO Area 5,Wexford,25-34,25-34 Years,Female,2875
+202006,CHO Area 5,Carlow/Kilkenny,25-34,25-34 Years,Male,1598
+202006,CHO Area 5,South Tipperary,25-34,25-34 Years,Male,1139
+202006,CHO Area 5,Waterford,25-34,25-34 Years,Male,1672
+202006,CHO Area 5,Wexford,25-34,25-34 Years,Male,1722
+202006,CHO Area 5,Carlow/Kilkenny,35-44,35-44 Years,Female,3344
+202006,CHO Area 5,South Tipperary,35-44,35-44 Years,Female,2211
+202006,CHO Area 5,Waterford,35-44,35-44 Years,Female,3095
+202006,CHO Area 5,Wexford,35-44,35-44 Years,Female,3842
+202006,CHO Area 5,Carlow/Kilkenny,35-44,35-44 Years,Male,2438
+202006,CHO Area 5,South Tipperary,35-44,35-44 Years,Male,1571
+202006,CHO Area 5,Waterford,35-44,35-44 Years,Male,2370
+202006,CHO Area 5,Wexford,35-44,35-44 Years,Male,2562
+202006,CHO Area 5,Carlow/Kilkenny,45-54,45-54 Years,Female,3440
+202006,CHO Area 5,South Tipperary,45-54,45-54 Years,Female,2276
+202006,CHO Area 5,Waterford,45-54,45-54 Years,Female,3087
+202006,CHO Area 5,Wexford,45-54,45-54 Years,Female,4043
+202006,CHO Area 5,Carlow/Kilkenny,45-54,45-54 Years,Male,2985
+202006,CHO Area 5,South Tipperary,45-54,45-54 Years,Male,1932
+202006,CHO Area 5,Waterford,45-54,45-54 Years,Male,2686
+202006,CHO Area 5,Wexford,45-54,45-54 Years,Male,3331
+202006,CHO Area 5,Carlow/Kilkenny,55-64,55-64 Years,Female,3170
+202006,CHO Area 5,South Tipperary,55-64,55-64 Years,Female,2268
+202006,CHO Area 5,Waterford,55-64,55-64 Years,Female,2846
+202006,CHO Area 5,Wexford,55-64,55-64 Years,Female,3832
+202006,CHO Area 5,Carlow/Kilkenny,55-64,55-64 Years,Male,3023
+202006,CHO Area 5,South Tipperary,55-64,55-64 Years,Male,2119
+202006,CHO Area 5,Waterford,55-64,55-64 Years,Male,2794
+202006,CHO Area 5,Wexford,55-64,55-64 Years,Male,3466
+202006,CHO Area 5,Carlow/Kilkenny,65-69,65-69 Years,Female,1742
+202006,CHO Area 5,South Tipperary,65-69,65-69 Years,Female,1295
+202006,CHO Area 5,Waterford,65-69,65-69 Years,Female,1692
+202006,CHO Area 5,Wexford,65-69,65-69 Years,Female,2007
+202006,CHO Area 5,Carlow/Kilkenny,65-69,65-69 Years,Male,1470
+202006,CHO Area 5,South Tipperary,65-69,65-69 Years,Male,1129
+202006,CHO Area 5,Waterford,65-69,65-69 Years,Male,1409
+202006,CHO Area 5,Wexford,65-69,65-69 Years,Male,1862
+202006,CHO Area 5,Carlow/Kilkenny,70-74,70-74 Years,Female,1944
+202006,CHO Area 5,South Tipperary,70-74,70-74 Years,Female,1516
+202006,CHO Area 5,Waterford,70-74,70-74 Years,Female,2002
+202006,CHO Area 5,Wexford,70-74,70-74 Years,Female,2550
+202006,CHO Area 5,Carlow/Kilkenny,70-74,70-74 Years,Male,1904
+202006,CHO Area 5,South Tipperary,70-74,70-74 Years,Male,1359
+202006,CHO Area 5,Waterford,70-74,70-74 Years,Male,1778
+202006,CHO Area 5,Wexford,70-74,70-74 Years,Male,2214
+202006,CHO Area 5,Carlow/Kilkenny,75+over,75 Years and Over,Female,4310
+202006,CHO Area 5,South Tipperary,75+over,75 Years and Over,Female,3197
+202006,CHO Area 5,Waterford,75+over,75 Years and Over,Female,4344
+202006,CHO Area 5,Wexford,75+over,75 Years and Over,Female,5142
+202006,CHO Area 5,Carlow/Kilkenny,75+over,75 Years and Over,Male,3255
+202006,CHO Area 5,South Tipperary,75+over,75 Years and Over,Male,2488
+202006,CHO Area 5,Waterford,75+over,75 Years and Over,Male,3245
+202006,CHO Area 5,Wexford,75+over,75 Years and Over,Male,4024
+202006,CHO Area 6,Dublin South East,0-04,Under 5 Years,Female,451
+202006,CHO Area 6,Dun Laoghaire,0-04,Under 5 Years,Female,295
+202006,CHO Area 6,Wicklow,0-04,Under 5 Years,Female,825
+202006,CHO Area 6,Dublin South East,0-04,Under 5 Years,Male,472
+202006,CHO Area 6,Dun Laoghaire,0-04,Under 5 Years,Male,310
+202006,CHO Area 6,Wicklow,0-04,Under 5 Years,Male,908
+202006,CHO Area 6,Dublin South East,05-Nov,05-11 Years,Female,893
+202006,CHO Area 6,Dun Laoghaire,05-Nov,05-11 Years,Female,636
+202006,CHO Area 6,Wicklow,05-Nov,05-11 Years,Female,1904
+202006,CHO Area 6,Dublin South East,05-Nov,05-11 Years,Male,1103
+202006,CHO Area 6,Dun Laoghaire,05-Nov,05-11 Years,Male,779
+202006,CHO Area 6,Wicklow,05-Nov,05-11 Years,Male,2073
+202006,CHO Area 6,Dublin South East,Dec-15,12-15 Years,Female,494
+202006,CHO Area 6,Dun Laoghaire,Dec-15,12-15 Years,Female,402
+202006,CHO Area 6,Wicklow,Dec-15,12-15 Years,Female,1090
+202006,CHO Area 6,Dublin South East,Dec-15,12-15 Years,Male,511
+202006,CHO Area 6,Dun Laoghaire,Dec-15,12-15 Years,Male,473
+202006,CHO Area 6,Wicklow,Dec-15,12-15 Years,Male,1277
+202006,CHO Area 6,Dublin South East,16-24,16-24 Years,Female,715
+202006,CHO Area 6,Dun Laoghaire,16-24,16-24 Years,Female,591
+202006,CHO Area 6,Wicklow,16-24,16-24 Years,Female,1758
+202006,CHO Area 6,Dublin South East,16-24,16-24 Years,Male,673
+202006,CHO Area 6,Dun Laoghaire,16-24,16-24 Years,Male,524
+202006,CHO Area 6,Wicklow,16-24,16-24 Years,Male,1539
+202006,CHO Area 6,Dublin South East,25-34,25-34 Years,Female,1006
+202006,CHO Area 6,Dun Laoghaire,25-34,25-34 Years,Female,698
+202006,CHO Area 6,Wicklow,25-34,25-34 Years,Female,1877
+202006,CHO Area 6,Dublin South East,25-34,25-34 Years,Male,548
+202006,CHO Area 6,Dun Laoghaire,25-34,25-34 Years,Male,417
+202006,CHO Area 6,Wicklow,25-34,25-34 Years,Male,1139
+202006,CHO Area 6,Dublin South East,35-44,35-44 Years,Female,1169
+202006,CHO Area 6,Dun Laoghaire,35-44,35-44 Years,Female,923
+202006,CHO Area 6,Wicklow,35-44,35-44 Years,Female,2489
+202006,CHO Area 6,Dublin South East,35-44,35-44 Years,Male,796
+202006,CHO Area 6,Dun Laoghaire,35-44,35-44 Years,Male,624
+202006,CHO Area 6,Wicklow,35-44,35-44 Years,Male,1680
+202006,CHO Area 6,Dublin South East,45-54,45-54 Years,Female,1211
+202006,CHO Area 6,Dun Laoghaire,45-54,45-54 Years,Female,1038
+202006,CHO Area 6,Wicklow,45-54,45-54 Years,Female,2637
+202006,CHO Area 6,Dublin South East,45-54,45-54 Years,Male,992
+202006,CHO Area 6,Dun Laoghaire,45-54,45-54 Years,Male,805
+202006,CHO Area 6,Wicklow,45-54,45-54 Years,Male,2054
+202006,CHO Area 6,Dublin South East,55-64,55-64 Years,Female,1114
+202006,CHO Area 6,Dun Laoghaire,55-64,55-64 Years,Female,1160
+202006,CHO Area 6,Wicklow,55-64,55-64 Years,Female,2466
+202006,CHO Area 6,Dublin South East,55-64,55-64 Years,Male,938
+202006,CHO Area 6,Dun Laoghaire,55-64,55-64 Years,Male,877
+202006,CHO Area 6,Wicklow,55-64,55-64 Years,Male,2145
+202006,CHO Area 6,Dublin South East,65-69,65-69 Years,Female,657
+202006,CHO Area 6,Dun Laoghaire,65-69,65-69 Years,Female,656
+202006,CHO Area 6,Wicklow,65-69,65-69 Years,Female,1307
+202006,CHO Area 6,Dublin South East,65-69,65-69 Years,Male,468
+202006,CHO Area 6,Dun Laoghaire,65-69,65-69 Years,Male,434
+202006,CHO Area 6,Wicklow,65-69,65-69 Years,Male,1037
+202006,CHO Area 6,Dublin South East,70-74,70-74 Years,Female,1081
+202006,CHO Area 6,Dun Laoghaire,70-74,70-74 Years,Female,926
+202006,CHO Area 6,Wicklow,70-74,70-74 Years,Female,1752
+202006,CHO Area 6,Dublin South East,70-74,70-74 Years,Male,719
+202006,CHO Area 6,Dun Laoghaire,70-74,70-74 Years,Male,625
+202006,CHO Area 6,Wicklow,70-74,70-74 Years,Male,1518
+202006,CHO Area 6,Dublin South East,75+over,75 Years and Over,Female,3309
+202006,CHO Area 6,Dun Laoghaire,75+over,75 Years and Over,Female,3590
+202006,CHO Area 6,Wicklow,75+over,75 Years and Over,Female,3558
+202006,CHO Area 6,Dublin South East,75+over,75 Years and Over,Male,2007
+202006,CHO Area 6,Dun Laoghaire,75+over,75 Years and Over,Male,1880
+202006,CHO Area 6,Wicklow,75+over,75 Years and Over,Male,2578
+202006,CHO Area 7,Dublin South City,0-04,Under 5 Years,Female,814
+202006,CHO Area 7,Dublin South West,0-04,Under 5 Years,Female,1492
+202006,CHO Area 7,Dublin West,0-04,Under 5 Years,Female,1320
+202006,CHO Area 7,Kildare / West Wicklow,0-04,Under 5 Years,Female,1430
+202006,CHO Area 7,Dublin South City,0-04,Under 5 Years,Male,817
+202006,CHO Area 7,Dublin South West,0-04,Under 5 Years,Male,1586
+202006,CHO Area 7,Dublin West,0-04,Under 5 Years,Male,1509
+202006,CHO Area 7,Kildare / West Wicklow,0-04,Under 5 Years,Male,1538
+202006,CHO Area 7,Dublin South City,05-Nov,05-11 Years,Female,1539
+202006,CHO Area 7,Dublin South West,05-Nov,05-11 Years,Female,3106
+202006,CHO Area 7,Dublin West,05-Nov,05-11 Years,Female,2938
+202006,CHO Area 7,Kildare / West Wicklow,05-Nov,05-11 Years,Female,3295
+202006,CHO Area 7,Dublin South City,05-Nov,05-11 Years,Male,1713
+202006,CHO Area 7,Dublin South West,05-Nov,05-11 Years,Male,3404
+202006,CHO Area 7,Dublin West,05-Nov,05-11 Years,Male,3448
+202006,CHO Area 7,Kildare / West Wicklow,05-Nov,05-11 Years,Male,3789
+202006,CHO Area 7,Dublin South City,Dec-15,12-15 Years,Female,819
+202006,CHO Area 7,Dublin South West,Dec-15,12-15 Years,Female,1773
+202006,CHO Area 7,Dublin West,Dec-15,12-15 Years,Female,1748
+202006,CHO Area 7,Kildare / West Wicklow,Dec-15,12-15 Years,Female,2090
+202006,CHO Area 7,Dublin South City,Dec-15,12-15 Years,Male,870
+202006,CHO Area 7,Dublin South West,Dec-15,12-15 Years,Male,2029
+202006,CHO Area 7,Dublin West,Dec-15,12-15 Years,Male,1901
+202006,CHO Area 7,Kildare / West Wicklow,Dec-15,12-15 Years,Male,2341
+202006,CHO Area 7,Dublin South City,16-24,16-24 Years,Female,1160
+202006,CHO Area 7,Dublin South West,16-24,16-24 Years,Female,2372
+202006,CHO Area 7,Dublin West,16-24,16-24 Years,Female,2356
+202006,CHO Area 7,Kildare / West Wicklow,16-24,16-24 Years,Female,3079
+202006,CHO Area 7,Dublin South City,16-24,16-24 Years,Male,957
+202006,CHO Area 7,Dublin South West,16-24,16-24 Years,Male,2146
+202006,CHO Area 7,Dublin West,16-24,16-24 Years,Male,2094
+202006,CHO Area 7,Kildare / West Wicklow,16-24,16-24 Years,Male,2816
+202006,CHO Area 7,Dublin South City,25-34,25-34 Years,Female,1824
+202006,CHO Area 7,Dublin South West,25-34,25-34 Years,Female,2970
+202006,CHO Area 7,Dublin West,25-34,25-34 Years,Female,2811
+202006,CHO Area 7,Kildare / West Wicklow,25-34,25-34 Years,Female,2925
+202006,CHO Area 7,Dublin South City,25-34,25-34 Years,Male,1022
+202006,CHO Area 7,Dublin South West,25-34,25-34 Years,Male,1572
+202006,CHO Area 7,Dublin West,25-34,25-34 Years,Male,1400
+202006,CHO Area 7,Kildare / West Wicklow,25-34,25-34 Years,Male,1648
+202006,CHO Area 7,Dublin South City,35-44,35-44 Years,Female,2262
+202006,CHO Area 7,Dublin South West,35-44,35-44 Years,Female,3871
+202006,CHO Area 7,Dublin West,35-44,35-44 Years,Female,3779
+202006,CHO Area 7,Kildare / West Wicklow,35-44,35-44 Years,Female,4435
+202006,CHO Area 7,Dublin South City,35-44,35-44 Years,Male,1755
+202006,CHO Area 7,Dublin South West,35-44,35-44 Years,Male,2549
+202006,CHO Area 7,Dublin West,35-44,35-44 Years,Male,2387
+202006,CHO Area 7,Kildare / West Wicklow,35-44,35-44 Years,Male,2884
+202006,CHO Area 7,Dublin South City,45-54,45-54 Years,Female,1944
+202006,CHO Area 7,Dublin South West,45-54,45-54 Years,Female,3315
+202006,CHO Area 7,Dublin West,45-54,45-54 Years,Female,3304
+202006,CHO Area 7,Kildare / West Wicklow,45-54,45-54 Years,Female,4325
+202006,CHO Area 7,Dublin South City,45-54,45-54 Years,Male,2068
+202006,CHO Area 7,Dublin South West,45-54,45-54 Years,Male,2666
+202006,CHO Area 7,Dublin West,45-54,45-54 Years,Male,2659
+202006,CHO Area 7,Kildare / West Wicklow,45-54,45-54 Years,Male,3636
+202006,CHO Area 7,Dublin South City,55-64,55-64 Years,Female,1823
+202006,CHO Area 7,Dublin South West,55-64,55-64 Years,Female,3213
+202006,CHO Area 7,Dublin West,55-64,55-64 Years,Female,3083
+202006,CHO Area 7,Kildare / West Wicklow,55-64,55-64 Years,Female,3543
+202006,CHO Area 7,Dublin South City,55-64,55-64 Years,Male,1936
+202006,CHO Area 7,Dublin South West,55-64,55-64 Years,Male,2675
+202006,CHO Area 7,Dublin West,55-64,55-64 Years,Male,2402
+202006,CHO Area 7,Kildare / West Wicklow,55-64,55-64 Years,Male,3099
+202006,CHO Area 7,Dublin South City,65-69,65-69 Years,Female,996
+202006,CHO Area 7,Dublin South West,65-69,65-69 Years,Female,2068
+202006,CHO Area 7,Dublin West,65-69,65-69 Years,Female,1646
+202006,CHO Area 7,Kildare / West Wicklow,65-69,65-69 Years,Female,1965
+202006,CHO Area 7,Dublin South City,65-69,65-69 Years,Male,906
+202006,CHO Area 7,Dublin South West,65-69,65-69 Years,Male,1444
+202006,CHO Area 7,Dublin West,65-69,65-69 Years,Male,1227
+202006,CHO Area 7,Kildare / West Wicklow,65-69,65-69 Years,Male,1598
+202006,CHO Area 7,Dublin South City,70-74,70-74 Years,Female,1257
+202006,CHO Area 7,Dublin South West,70-74,70-74 Years,Female,2495
+202006,CHO Area 7,Dublin West,70-74,70-74 Years,Female,1775
+202006,CHO Area 7,Kildare / West Wicklow,70-74,70-74 Years,Female,2576
+202006,CHO Area 7,Dublin South City,70-74,70-74 Years,Male,992
+202006,CHO Area 7,Dublin South West,70-74,70-74 Years,Male,2063
+202006,CHO Area 7,Dublin West,70-74,70-74 Years,Male,1530
+202006,CHO Area 7,Kildare / West Wicklow,70-74,70-74 Years,Male,2257
+202006,CHO Area 7,Dublin South City,75+over,75 Years and Over,Female,3141
+202006,CHO Area 7,Dublin South West,75+over,75 Years and Over,Female,4769
+202006,CHO Area 7,Dublin West,75+over,75 Years and Over,Female,3247
+202006,CHO Area 7,Kildare / West Wicklow,75+over,75 Years and Over,Female,4952
+202006,CHO Area 7,Dublin South City,75+over,75 Years and Over,Male,2003
+202006,CHO Area 7,Dublin South West,75+over,75 Years and Over,Male,3146
+202006,CHO Area 7,Dublin West,75+over,75 Years and Over,Male,2130
+202006,CHO Area 7,Kildare / West Wicklow,75+over,75 Years and Over,Male,3791
+202006,CHO Area 8,Laois / Offaly,0-04,Under 5 Years,Female,1423
+202006,CHO Area 8,Longford / Westmeath,0-04,Under 5 Years,Female,1345
+202006,CHO Area 8,Louth,0-04,Under 5 Years,Female,1325
+202006,CHO Area 8,Meath,0-04,Under 5 Years,Female,1324
+202006,CHO Area 8,Laois / Offaly,0-04,Under 5 Years,Male,1598
+202006,CHO Area 8,Longford / Westmeath,0-04,Under 5 Years,Male,1369
+202006,CHO Area 8,Louth,0-04,Under 5 Years,Male,1418
+202006,CHO Area 8,Meath,0-04,Under 5 Years,Male,1422
+202006,CHO Area 8,Laois / Offaly,05-Nov,05-11 Years,Female,3277
+202006,CHO Area 8,Longford / Westmeath,05-Nov,05-11 Years,Female,2785
+202006,CHO Area 8,Louth,05-Nov,05-11 Years,Female,2803
+202006,CHO Area 8,Meath,05-Nov,05-11 Years,Female,3094
+202006,CHO Area 8,Laois / Offaly,05-Nov,05-11 Years,Male,3595
+202006,CHO Area 8,Longford / Westmeath,05-Nov,05-11 Years,Male,3111
+202006,CHO Area 8,Louth,05-Nov,05-11 Years,Male,2959
+202006,CHO Area 8,Meath,05-Nov,05-11 Years,Male,3457
+202006,CHO Area 8,Laois / Offaly,Dec-15,12-15 Years,Female,1929
+202006,CHO Area 8,Longford / Westmeath,Dec-15,12-15 Years,Female,1599
+202006,CHO Area 8,Louth,Dec-15,12-15 Years,Female,1659
+202006,CHO Area 8,Meath,Dec-15,12-15 Years,Female,1787
+202006,CHO Area 8,Laois / Offaly,Dec-15,12-15 Years,Male,2146
+202006,CHO Area 8,Longford / Westmeath,Dec-15,12-15 Years,Male,1784
+202006,CHO Area 8,Louth,Dec-15,12-15 Years,Male,1761
+202006,CHO Area 8,Meath,Dec-15,12-15 Years,Male,2017
+202006,CHO Area 8,Laois / Offaly,16-24,16-24 Years,Female,2991
+202006,CHO Area 8,Longford / Westmeath,16-24,16-24 Years,Female,2481
+202006,CHO Area 8,Louth,16-24,16-24 Years,Female,2452
+202006,CHO Area 8,Meath,16-24,16-24 Years,Female,2468
+202006,CHO Area 8,Laois / Offaly,16-24,16-24 Years,Male,2590
+202006,CHO Area 8,Longford / Westmeath,16-24,16-24 Years,Male,2225
+202006,CHO Area 8,Louth,16-24,16-24 Years,Male,2132
+202006,CHO Area 8,Meath,16-24,16-24 Years,Male,2141
+202006,CHO Area 8,Laois / Offaly,25-34,25-34 Years,Female,2973
+202006,CHO Area 8,Longford / Westmeath,25-34,25-34 Years,Female,2597
+202006,CHO Area 8,Louth,25-34,25-34 Years,Female,2469
+202006,CHO Area 8,Meath,25-34,25-34 Years,Female,2425
+202006,CHO Area 8,Laois / Offaly,25-34,25-34 Years,Male,1904
+202006,CHO Area 8,Longford / Westmeath,25-34,25-34 Years,Male,1687
+202006,CHO Area 8,Louth,25-34,25-34 Years,Male,1520
+202006,CHO Area 8,Meath,25-34,25-34 Years,Male,1393
+202006,CHO Area 8,Laois / Offaly,35-44,35-44 Years,Female,4014
+202006,CHO Area 8,Longford / Westmeath,35-44,35-44 Years,Female,3366
+202006,CHO Area 8,Louth,35-44,35-44 Years,Female,3591
+202006,CHO Area 8,Meath,35-44,35-44 Years,Female,3783
+202006,CHO Area 8,Laois / Offaly,35-44,35-44 Years,Male,2842
+202006,CHO Area 8,Longford / Westmeath,35-44,35-44 Years,Male,2408
+202006,CHO Area 8,Louth,35-44,35-44 Years,Male,2334
+202006,CHO Area 8,Meath,35-44,35-44 Years,Male,2410
+202006,CHO Area 8,Laois / Offaly,45-54,45-54 Years,Female,3889
+202006,CHO Area 8,Longford / Westmeath,45-54,45-54 Years,Female,3423
+202006,CHO Area 8,Louth,45-54,45-54 Years,Female,3424
+202006,CHO Area 8,Meath,45-54,45-54 Years,Female,3656
+202006,CHO Area 8,Laois / Offaly,45-54,45-54 Years,Male,3327
+202006,CHO Area 8,Longford / Westmeath,45-54,45-54 Years,Male,2960
+202006,CHO Area 8,Louth,45-54,45-54 Years,Male,3010
+202006,CHO Area 8,Meath,45-54,45-54 Years,Male,3157
+202006,CHO Area 8,Laois / Offaly,55-64,55-64 Years,Female,3414
+202006,CHO Area 8,Longford / Westmeath,55-64,55-64 Years,Female,2941
+202006,CHO Area 8,Louth,55-64,55-64 Years,Female,2771
+202006,CHO Area 8,Meath,55-64,55-64 Years,Female,2956
+202006,CHO Area 8,Laois / Offaly,55-64,55-64 Years,Male,3221
+202006,CHO Area 8,Longford / Westmeath,55-64,55-64 Years,Male,2718
+202006,CHO Area 8,Louth,55-64,55-64 Years,Male,2779
+202006,CHO Area 8,Meath,55-64,55-64 Years,Male,2746
+202006,CHO Area 8,Laois / Offaly,65-69,65-69 Years,Female,1808
+202006,CHO Area 8,Longford / Westmeath,65-69,65-69 Years,Female,1497
+202006,CHO Area 8,Louth,65-69,65-69 Years,Female,1524
+202006,CHO Area 8,Meath,65-69,65-69 Years,Female,1769
+202006,CHO Area 8,Laois / Offaly,65-69,65-69 Years,Male,1558
+202006,CHO Area 8,Longford / Westmeath,65-69,65-69 Years,Male,1327
+202006,CHO Area 8,Louth,65-69,65-69 Years,Male,1313
+202006,CHO Area 8,Meath,65-69,65-69 Years,Male,1325
+202006,CHO Area 8,Laois / Offaly,70-74,70-74 Years,Female,2251
+202006,CHO Area 8,Longford / Westmeath,70-74,70-74 Years,Female,1895
+202006,CHO Area 8,Louth,70-74,70-74 Years,Female,1969
+202006,CHO Area 8,Meath,70-74,70-74 Years,Female,2191
+202006,CHO Area 8,Laois / Offaly,70-74,70-74 Years,Male,1966
+202006,CHO Area 8,Longford / Westmeath,70-74,70-74 Years,Male,1643
+202006,CHO Area 8,Louth,70-74,70-74 Years,Male,1631
+202006,CHO Area 8,Meath,70-74,70-74 Years,Male,1922
+202006,CHO Area 8,Laois / Offaly,75+over,75 Years and Over,Female,4488
+202006,CHO Area 8,Longford / Westmeath,75+over,75 Years and Over,Female,3896
+202006,CHO Area 8,Louth,75+over,75 Years and Over,Female,4030
+202006,CHO Area 8,Meath,75+over,75 Years and Over,Female,4446
+202006,CHO Area 8,Laois / Offaly,75+over,75 Years and Over,Male,3543
+202006,CHO Area 8,Longford / Westmeath,75+over,75 Years and Over,Male,3046
+202006,CHO Area 8,Louth,75+over,75 Years and Over,Male,2930
+202006,CHO Area 8,Meath,75+over,75 Years and Over,Male,3379
+202006,CHO Area 9,Dublin North,0-04,Under 5 Years,Female,1505
+202006,CHO Area 9,Dublin North Central,0-04,Under 5 Years,Female,1400
+202006,CHO Area 9,Dublin North West,0-04,Under 5 Years,Female,1431
+202006,CHO Area 9,Dublin North,0-04,Under 5 Years,Male,1657
+202006,CHO Area 9,Dublin North Central,0-04,Under 5 Years,Male,1492
+202006,CHO Area 9,Dublin North West,0-04,Under 5 Years,Male,1612
+202006,CHO Area 9,Dublin North,05-Nov,05-11 Years,Female,3398
+202006,CHO Area 9,Dublin North Central,05-Nov,05-11 Years,Female,2835
+202006,CHO Area 9,Dublin North West,05-Nov,05-11 Years,Female,3124
+202006,CHO Area 9,Dublin North,05-Nov,05-11 Years,Male,3869
+202006,CHO Area 9,Dublin North Central,05-Nov,05-11 Years,Male,2942
+202006,CHO Area 9,Dublin North West,05-Nov,05-11 Years,Male,3402
+202006,CHO Area 9,Dublin North,Dec-15,12-15 Years,Female,1985
+202006,CHO Area 9,Dublin North Central,Dec-15,12-15 Years,Female,1413
+202006,CHO Area 9,Dublin North West,Dec-15,12-15 Years,Female,1779
+202006,CHO Area 9,Dublin North,Dec-15,12-15 Years,Male,2262
+202006,CHO Area 9,Dublin North Central,Dec-15,12-15 Years,Male,1520
+202006,CHO Area 9,Dublin North West,Dec-15,12-15 Years,Male,1898
+202006,CHO Area 9,Dublin North,16-24,16-24 Years,Female,2832
+202006,CHO Area 9,Dublin North Central,16-24,16-24 Years,Female,1909
+202006,CHO Area 9,Dublin North West,16-24,16-24 Years,Female,2494
+202006,CHO Area 9,Dublin North,16-24,16-24 Years,Male,2560
+202006,CHO Area 9,Dublin North Central,16-24,16-24 Years,Male,1706
+202006,CHO Area 9,Dublin North West,16-24,16-24 Years,Male,2320
+202006,CHO Area 9,Dublin North,25-34,25-34 Years,Female,3207
+202006,CHO Area 9,Dublin North Central,25-34,25-34 Years,Female,3077
+202006,CHO Area 9,Dublin North West,25-34,25-34 Years,Female,2735
+202006,CHO Area 9,Dublin North,25-34,25-34 Years,Male,1739
+202006,CHO Area 9,Dublin North Central,25-34,25-34 Years,Male,1704
+202006,CHO Area 9,Dublin North West,25-34,25-34 Years,Male,1438
+202006,CHO Area 9,Dublin North,35-44,35-44 Years,Female,4140
+202006,CHO Area 9,Dublin North Central,35-44,35-44 Years,Female,3730
+202006,CHO Area 9,Dublin North West,35-44,35-44 Years,Female,3927
+202006,CHO Area 9,Dublin North,35-44,35-44 Years,Male,2672
+202006,CHO Area 9,Dublin North Central,35-44,35-44 Years,Male,2647
+202006,CHO Area 9,Dublin North West,35-44,35-44 Years,Male,2495
+202006,CHO Area 9,Dublin North,45-54,45-54 Years,Female,4456
+202006,CHO Area 9,Dublin North Central,45-54,45-54 Years,Female,3067
+202006,CHO Area 9,Dublin North West,45-54,45-54 Years,Female,3534
+202006,CHO Area 9,Dublin North,45-54,45-54 Years,Male,3423
+202006,CHO Area 9,Dublin North Central,45-54,45-54 Years,Male,2880
+202006,CHO Area 9,Dublin North West,45-54,45-54 Years,Male,2960
+202006,CHO Area 9,Dublin North,55-64,55-64 Years,Female,3682
+202006,CHO Area 9,Dublin North Central,55-64,55-64 Years,Female,2669
+202006,CHO Area 9,Dublin North West,55-64,55-64 Years,Female,2911
+202006,CHO Area 9,Dublin North,55-64,55-64 Years,Male,2933
+202006,CHO Area 9,Dublin North Central,55-64,55-64 Years,Male,2571
+202006,CHO Area 9,Dublin North West,55-64,55-64 Years,Male,2440
+202006,CHO Area 9,Dublin North,65-69,65-69 Years,Female,1952
+202006,CHO Area 9,Dublin North Central,65-69,65-69 Years,Female,1211
+202006,CHO Area 9,Dublin North West,65-69,65-69 Years,Female,1551
+202006,CHO Area 9,Dublin North,65-69,65-69 Years,Male,1359
+202006,CHO Area 9,Dublin North Central,65-69,65-69 Years,Male,1097
+202006,CHO Area 9,Dublin North West,65-69,65-69 Years,Male,1115
+202006,CHO Area 9,Dublin North,70-74,70-74 Years,Female,3089
+202006,CHO Area 9,Dublin North Central,70-74,70-74 Years,Female,1660
+202006,CHO Area 9,Dublin North West,70-74,70-74 Years,Female,1865
+202006,CHO Area 9,Dublin North,70-74,70-74 Years,Male,2329
+202006,CHO Area 9,Dublin North Central,70-74,70-74 Years,Male,1368
+202006,CHO Area 9,Dublin North West,70-74,70-74 Years,Male,1479
+202006,CHO Area 9,Dublin North,75+over,75 Years and Over,Female,7338
+202006,CHO Area 9,Dublin North Central,75+over,75 Years and Over,Female,4718
+202006,CHO Area 9,Dublin North West,75+over,75 Years and Over,Female,4326
+202006,CHO Area 9,Dublin North,75+over,75 Years and Over,Male,4889
+202006,CHO Area 9,Dublin North Central,75+over,75 Years and Over,Male,2988
+202006,CHO Area 9,Dublin North West,75+over,75 Years and Over,Male,2620
